@@ -1,4 +1,4 @@
-# Selenium-Java-using-POM-and-PageFactory
+# Selenium-Java-using-POM-with-PageFactory
 
 ## 1. POM
 
